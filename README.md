@@ -69,8 +69,9 @@ Such as:
 
 ### Links
 
-- GitHub Repository: [breaking-bad-api](https://github.com/Alelsito/breaking-bad-api)
-- Live Site URL: [breaking-bad-consuming-api](https://breaking-bad-consuming-api.netlify.app/)
+- GitHub Repository: [breaking-bad-api-github](https://github.com/Alelsito/breaking-bad-api)
+- Live Site URL(Netlify): [breaking-bad-consuming-api-netlify](https://breaking-bad-consuming-api.netlify.app/)
+- Live Site URL(GitHub Pages)): [breaking-bad-api-github-pages](https://alelsito.github.io/breaking-bad-api/)
 
 ## My process
 
