@@ -7,6 +7,7 @@ This is a solution to the project ✨ Breaking Bad ✨ of the [Computer Science]
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [The Breaking Bad API](#the-breaking-bad-api)
   - [How to use it](#how-to-use-it)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -32,6 +33,11 @@ Such as:
 
 3. Have a favorites list with the characters that the user will choose by clicking on the cards.
     - Options to eliminate all the elements, the first element (**Stack**) of the list and the last element (**Queue**) (*Linear Data Structures*).
+
+### The Breaking Bad API
+
+- [Home page](https://breakingbadapi.com/)
+- [Documentation](https://breakingbadapi.com/documentation)
 
 ### How to use it
 
