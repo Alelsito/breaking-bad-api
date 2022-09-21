@@ -21,7 +21,7 @@ This is a solution to the project ✨ Breaking Bad ✨ of the [Kata Computer Sci
 ### The challenge
 
 1. Create a page where you can consult the characters of Breaking-Bad
-2. Read information about each character that is displayed.
+2. Read information about each character that are displayed.
 
 Such as:
 - Name
