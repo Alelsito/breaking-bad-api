@@ -8,7 +8,7 @@ This is a solution to the project ✨ Breaking Bad ✨ of the [Kata Computer Sci
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [The Breaking Bad API](#the-breaking-bad-api)
-  - [How to use it](#how-to-use-it)
+  - [How to interact (website)](#how-to-interact-with-the-website)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -39,7 +39,7 @@ Such as:
 - [Home page](https://breakingbadapi.com/)
 - [Documentation](https://breakingbadapi.com/documentation)
 
-### How to use it
+### How to interact with the website
 
 1. At first, displayed on the page you can see a navigation bar and also the full list of characters.
 
