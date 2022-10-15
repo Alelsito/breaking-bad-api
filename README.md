@@ -1,6 +1,6 @@
-# Dev.f - Breaking Bad API
+# Dev.f - Breaking Bad API 🧪👨‍🔬🧪
 
-This is a solution to the project ✨ Breaking Bad ✨ of the [Kata Computer Science (dev.f)](https://www.devf.la/master/encoding/mx).\
+This is a solution to the project ✨ Breaking Bad ✨ of the [Kata Computer Science](https://www.devf.la/master/encoding/mx).\
 [Dev.f](https://www.devf.la/) offers an innovative solution to educational inclusion with EdTech programs that help people become software developers and obtain technological skills in order to obtain high-quality job opportunities in an agile and accessible way.
 
 ## Table of contents
@@ -20,7 +20,7 @@ This is a solution to the project ✨ Breaking Bad ✨ of the [Kata Computer Sci
 
 ### The challenge
 
-1. Create a page where you can consult the characters of Breaking-Bad
+1. Create a page where you can consult the characters of Breaking-Bad.
 2. Read information about each character that are displayed.
 
 Such as:
@@ -44,7 +44,7 @@ Such as:
 1. At first, displayed on the page you can see a navigation bar and also the full list of characters.
 
 - The functioning of the navigation bar contains the following options:
-    1. Dropdown to search characters by seasons (*1, 2, 3, 4, 5*)*
+    1. Dropdown to search characters by seasons (*1, 2, 3, 4, 5*)
     2. Refresh the page (*by clicking on the Breaking-Bad logo*)
     3. Dropdown to search characters by status (*alive, deceased, unknown*)
     4. Dropdown to eliminate character(s) of the favorites list
@@ -93,7 +93,7 @@ Such as:
 
 - APIs
 - Fetch
-- localStorage
+- [LocalStorage](https://es.javascript.info/localstorage)
 - Linear Data Structures (stack & queue)
 - Arrays Methods:
     * [reverse()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
@@ -108,3 +108,4 @@ Such as:
 ## Author
 
 - Github - [@Alelsito](https://github.com/Alelsito)
+- LinkdIn - [Hugo Alejandro López Blanco](https://www.linkedin.com/in/hugolopezblanco/)
